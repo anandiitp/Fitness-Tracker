@@ -1,3 +1,7 @@
-## Data Science Project Template
+Overview
+The Fitness Tracker Project is designed to analyze and visualize fitness data from different exercises such as bench press, squat, rowing, overhead press, and deadlift. This project leverages signal processing techniques to filter and count repetitions of exercises based on accelerometer data.
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+Features
+Data filtering using low-pass filters
+Visualization of exercise data
+Automatic counting of repetitions
